@@ -1,4 +1,8 @@
 
+# 💫 About Me:
+🌱 Currently improving my skills in [e.g., React.js, .NET Core, Node.js, etc.]<br><br>🔧 Familiar with [HTML, CSS, JavaScript, C#, SQL, Git, etc.]<br><br>🛠️ Working on personal projects to grow as a full-stack developer<br><br>🤝 Looking for my first professional opportunity to learn from experienced developers and add value to a team<br><br>📫 Feel free to reach out: https://www.linkedin.com/in/huseyn-mehdiyev/
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/huseyn-mehdiyev/) 
 
